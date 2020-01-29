@@ -29,3 +29,4 @@ class RecordCollection {
 }
 
 module.exports = RecordCollection;
+

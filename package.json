@@ -1,0 +1,22 @@
+{
+  "name": "record-collection",
+  "version": "1.0.0",
+  "description": "Record Collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casiotone/record-collection.git"
+  },
+  "author": "Joceline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Casiotone/record-collection/issues"
+  },
+  "homepage": "https://github.com/Casiotone/record-collection#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
